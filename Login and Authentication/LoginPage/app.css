@@ -1,0 +1,30 @@
+* { font-family: arial ; }
+
+table {
+    border-collapse: collapse;
+    margin: 100px auto ;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #DDD ;
+}
+
+h1, h3, p { text-align: center;}
+
+
+.btn {
+    display: inline-block;
+    padding: 5px 15px;
+    border: 1px solid #AAD ;
+    cursor: pointer;
+    background: #DDF ;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.btn:hover {
+    background: #AAD ;
+}
+
+.center { text-align: center;}
